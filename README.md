@@ -1,0 +1,2 @@
+# SanguozhiScript
+game script
